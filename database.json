@@ -1,0 +1,243 @@
+{
+  "users": {
+    "8920279824": {
+      "id": "8920279824",
+      "name": "TEMPO",
+      "tier": "ADMIN",
+      "deteksi": 808,
+      "today": 808,
+      "joinedAt": "2026-11-09T17:17:24.040Z"
+    },
+    "9264081364": {
+      "id": "9264081364",
+      "name": "Yamzz",
+      "tier": "FREE",
+      "deteksi": 93,
+      "today": 93,
+      "joinedAt": "2026-11-10T03:14:23.659Z",
+      "lastDetectDate": "2026-11-10",
+      "detectToday": 93,
+      "detectCooldownUntil": 1794281764013
+    }
+  },
+  "stats": {
+    "total_user": 454,
+    "total_deteksi": 8567719,
+    "free": 247,
+    "premium": 87,
+    "super": 153,
+    "revenue": 6452817,
+    "trx": 679
+  },
+  "config": {
+    "notification_group_ids": [
+      -1003989307050
+    ],
+    "verification_group_id": null,
+    "verification_group_ids": [
+      -1003989307050
+    ],
+    "verification_links": [
+      "https://t.me/+XGaeS78aPUBiZmE1"
+    ],
+    "verification_link": null,
+    "proxies": [
+      {
+        "id": "1794128740761",
+        "host": "gw.dataimpulse.com",
+        "port": "823",
+        "user": "84f4d60e6243379b9308",
+        "pass": "6925831ae5911505",
+        "status": "online",
+        "addedAt": "2026-11-08T09:05:40.761Z"
+      },
+      {
+        "id": "1794166301959",
+        "host": "gw.proxyrise.com",
+        "port": "443",
+        "user": "res-sc-ar-spaces-are-fine",
+        "pass": "pgw-9aa1b4926b0000da38a3f22a715f31561a0e08ae180500ac",
+        "status": "online",
+        "addedAt": "2026-11-08T19:31:41.959Z"
+      },
+      {
+        "id": "1794166392654",
+        "host": "gw.proxyrise.com",
+        "port": "443",
+        "user": "res-sc-any-spaces-are-fine",
+        "pass": "pgw-9aa1b4926b0000da38a3f22a715f31561a0e08ae180500ac",
+        "status": "online",
+        "addedAt": "2026-11-08T19:33:12.655Z"
+      },
+      {
+        "id": "1794166462367",
+        "host": "gw.proxyrise.com",
+        "port": "443",
+        "user": "res-sc-any-spaces-are-fine",
+        "pass": "pgw-9aa1b4926b0000da38a3f22a715f31561a0e08ae180500ac",
+        "status": "online",
+        "addedAt": "2026-11-08T19:34:22.367Z"
+      },
+      {
+        "id": "1794166570733",
+        "host": "gw.proxyrise.com",
+        "port": "443",
+        "user": "res-any",
+        "pass": "pgw-9aa1b4926b0000da38a3f22a715f31561a0e08ae180500ac",
+        "status": "online",
+        "addedAt": "2026-11-08T19:36:10.733Z"
+      },
+      {
+        "id": "1794171955697",
+        "host": "gw.proxyrise.com",
+        "port": "443",
+        "user": "res-any-sid-939129278",
+        "pass": "pgw-9aa1b4926b0000da38a3f22a715f31561a0e08ae180500ac",
+        "status": "online",
+        "addedAt": "2026-11-08T21:05:55.697Z"
+      },
+      {
+        "id": "1794171994518",
+        "host": "gw.proxyrise.com",
+        "port": "443",
+        "user": "res-any-sid-630270843",
+        "pass": "pgw-9aa1b4926b0000da38a3f22a715f31561a0e08ae180500ac",
+        "status": "online",
+        "addedAt": "2026-11-08T21:06:34.518Z"
+      },
+      {
+        "id": "1794172047269",
+        "host": "gw.proxyrise.com",
+        "port": "443",
+        "user": "res-any-sid-283150909",
+        "pass": "pgw-9aa1b4926b0000da38a3f22a715f31561a0e08ae180500ac",
+        "status": "online",
+        "addedAt": "2026-11-08T21:07:27.270Z"
+      },
+      {
+        "id": "1794172092805",
+        "host": "gw.proxyrise.com",
+        "port": "443",
+        "user": "res-any-sid-557264328",
+        "pass": "pgw-9aa1b4926b0000da38a3f22a715f31561a0e08ae180500ac",
+        "status": "online",
+        "addedAt": "2026-11-08T21:08:12.805Z"
+      },
+      {
+        "id": "1794233357772",
+        "host": "gw.proxyrise.com",
+        "port": "443",
+        "user": "res-any-rotate",
+        "pass": "pgw-9aa1b4926b0000da38a3f22a715f31561a0e08ae180500ac",
+        "status": "online",
+        "addedAt": "2026-11-09T14:09:17.772Z"
+      },
+      {
+        "id": "1794233452638",
+        "host": "gw.proxyrise.com",
+        "port": "443",
+        "user": "res-gb-rotate",
+        "pass": "pgw-9aa1b4926b0000da38a3f22a715f31561a0e08ae180500ac",
+        "status": "online",
+        "addedAt": "2026-11-09T14:10:52.638Z"
+      },
+      {
+        "id": "1794233558049",
+        "host": "gw.proxyrise.com",
+        "port": "443",
+        "user": "res-any-rotate",
+        "pass": "pgw-9aa1b4926b0000da38a3f22a715f31561a0e08ae180500ac",
+        "status": "online",
+        "addedAt": "2026-11-09T14:12:38.049Z"
+      },
+      {
+        "id": "1794275146431-0-6ddb6f",
+        "host": "gw.proxyrise.com",
+        "port": "443",
+        "user": "res-id-rotate",
+        "pass": "pgw-9aa1b4926b0000da38a3f22a715f31561a0e08ae180500ac",
+        "status": "online",
+        "addedAt": "2026-11-10T01:45:46.448Z"
+      },
+      {
+        "id": "1794275189275-0-4b1af2",
+        "host": "gw.proxyrise.com",
+        "port": "443",
+        "user": "res-ad-rotate",
+        "pass": "pgw-9aa1b4926b0000da38a3f22a715f31561a0e08ae180500ac",
+        "status": "online",
+        "addedAt": "2026-11-10T01:46:29.275Z"
+      },
+      {
+        "id": "1794275219132-0-a274c1",
+        "host": "gw.proxyrise.com",
+        "port": "443",
+        "user": "res-ae-rotate",
+        "pass": "pgw-9aa1b4926b0000da38a3f22a715f31561a0e08ae180500ac",
+        "status": "online",
+        "addedAt": "2026-11-10T01:46:59.133Z"
+      }
+    ],
+    "default_proxy_id": null,
+    "welcome_enabled": false,
+    "email_senders": [],
+    "email_recipients": [],
+    "email_app_passwords": [],
+    "email_sender_last_used": {},
+    "email_templates": [
+      {
+        "name": "Metode 1",
+        "body": "Yth. Tim Dukungan,\n\nSaya ingin mengajukan peninjauan untuk nomor WhatsApp {nomor}. Mohon informasikan proses resmi yang perlu saya ikuti.\n\nTerima kasih."
+      },
+      {
+        "name": "Metode 2",
+        "body": "Halo Tim Dukungan WhatsApp,\n\nMohon bantu tinjau status akun dengan nomor {nomor}. Jika diperlukan, saya bersedia memberikan informasi tambahan melalui kanal resmi.\n\nTerima kasih."
+      }
+    ],
+    "menu_banner_file_id": "AgACAgUAAxkDAAILRmrxyOLqOPgJhm-RyfPdkUCMZLp8AAKYFmsb6QABkVclf1B9pHtutwEAAwIAA3kAAz0E",
+    "tiers": {
+      "FREE": {
+        "maxBatch": 25,
+        "cooldownSeconds": 10,
+        "prices": {}
+      },
+      "VIP": {
+        "maxBatch": 50,
+        "cooldownSeconds": 7,
+        "prices": {
+          "1": 2000,
+          "3": 5000,
+          "7": 20000,
+          "15": 35000,
+          "30": 50000
+        }
+      },
+      "VVIP": {
+        "maxBatch": 70,
+        "cooldownSeconds": 5,
+        "prices": {
+          "1": 8000,
+          "3": 15000,
+          "7": 30000,
+          "30": 80000
+        }
+      }
+    },
+    "payment_methods": [
+      {
+        "name": "Dana",
+        "detail": "0881024256129 A/N Ryan Ramadhan",
+        "addedAt": "2026-11-10T03:06:54.541Z"
+      },
+      {
+        "name": "QRIS",
+        "detail": "YAMZZ MARKET",
+        "addedAt": "2026-11-10T03:09:44.237Z",
+        "fileId": "AgACAgUAAxkBAAIMm2ryimrgY97SNA_d8aLZ14OCBxT6AAJnIGsb-CyRV9e0ah_9-SxaAQADAgADeQADPQQ"
+      }
+    ],
+    "freeDailyLimitEnabled": false,
+    "freeDailyLimit": 5,
+    "upgradeEnabled": false
+  }
+}

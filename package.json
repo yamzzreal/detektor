@@ -1,0 +1,17 @@
+{
+  "name": "romo",
+  "version": "1.0.0",
+  "description": "iwak itik iwak lele join mek",
+  "main": "wangsaf.js",
+  "scripts": {
+    "start": "node wangsaf.js"
+  },
+  "dependencies": {
+    "imapflow": "^1.0.181",
+    "mailparser": "^3.7.4",
+    "nodemailer": "^6.10.1",
+    "telegraf": "^4.16.3"
+  },
+  "author": "tempo mek",
+  "license": "MIT"
+}
